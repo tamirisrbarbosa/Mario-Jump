@@ -1,5 +1,5 @@
 
-** Jogo do Mario - Simples e Divertido **
+**Jogo do Mario - Simples e Divertido**
 
 Prepare-se para pular! Você controla o Mario em sua jornada para evitar os canos.
 O jogo foi criado utilizando HTML, CSS e JavaScript.
