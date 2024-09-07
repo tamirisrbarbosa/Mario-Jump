@@ -1,5 +1,5 @@
 
-**Jogo do Mario - Simples e Divertido**
+**Jogo do Mario - Simples**
 
 Prepare-se para pular! Você controla o Mario em sua jornada para evitar os canos.
 
